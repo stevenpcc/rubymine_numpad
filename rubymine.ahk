@@ -12,7 +12,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #If WinActive("ahk_exe rubymine64.exe") or WinActive("ahk_exe rubymine.exe") or WinActive("Rubymine Keymap")
 
 #include modes.ahk
-#include keymap_image.ahk
+#include key_diagram.ahk
 #include permanent_hotkeys.ahk
 #include tabs_hotkeys.ahk
 #include selection_hotkeys.ahk
