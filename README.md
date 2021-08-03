@@ -1,34 +1,25 @@
 # Rubymine Numpad
 
-This is an AutoHotKey script for creating Numpad shortcut profiles and quickly
-switching between them. It was created for Rubymine but the concept could
-be applied to any program.
-
-It was not designed for general use and is highly customized to my workflow and
-Rubymine settings.
+This is an AutoHotKey script for applying Rubymine shortcuts to the numpad.
 
 # How does it work?
 
-I currently have 6 profiles. Selection, Editing, Tabs, Git, Run, Tools. Each
-profile can be applied to the numpad. The diagram below shows what each key will
-do when in Git mode.
+I currently have 6 profiles. Selection, Editing, Tabs, Git, Run, Tools. I can
+switch between these using the function keys and the shortcuts for that
+profile will be applied to the numpad. The video below demonstrates switching
+between each mode using the function keys and using the pause/break key to
+display a diagram showing what each key now does.
 
-![Git Shortcut Profile](https://i.imgur.com/jDV5Euc.png)
-
-The function keys are used to switch between the different modes.
-Some shortcuts are set permanently for things I use on a regular
-basis, such as commit.
-
-When held down the pause/break key will show a diagram like the one above
-if an image with the mode name is in the key diagrams
+[![Rubymine Numpad Video Demonstration](http://img.youtube.com/vi/_AZpix6H6QE/0.jpg)](http://www.youtube.com/watch?v=_AZpix6H6QE "Video Title")
 
 # Usage
 
 I recommend you just fork this and tailor it to your own needs rather than
-trying to use it as is. It is highly dependant on your Rubymine shortcuts
-matching mine.
+trying to use it as is. This was never intended for general use as it's
+highly customized to my workflow and will only function correctly if your
+Rubymine shortcuts match mine.
 
-If for some reason you do decide to run it, you will  need to do the following:
+If for some reason you do decide to run it, you will need to do the following:
 
 * Download the files to your machine
 * Install AutoHotKey if have not already
