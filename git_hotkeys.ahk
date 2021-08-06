@@ -30,7 +30,7 @@
     Ctrl & NumpadIns::GitNewTag()
     return
 
-    NumpadLeft::DoNothing()
+    NumpadLeft::GitRollback()
     return
 
     NumpadDown::DoNothing()

@@ -282,3 +282,7 @@ ReformatCode() {
 DeleteLine() {
     CtrlAltShift("{.}")
 }
+
+GitRollback() {
+    CtrlShift("{;}")
+}
