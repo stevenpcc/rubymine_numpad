@@ -19,6 +19,7 @@
     return
 
     NumpadUp::StructureWindow()
+    return
 
     NumpadRight::ProblemsWindow()
     return
