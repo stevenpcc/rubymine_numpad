@@ -15,16 +15,15 @@
     NumpadLeft::GitWindow()
     return
 
-    NumpadClear::StructureWindow()
+    NumpadClear::MaximizeEditor()
     return
+
+    NumpadUp::StructureWindow()
 
     NumpadRight::ProblemsWindow()
     return
 
     NumpadHome::TodoWindow()
-    return
-
-    NumpadUp::DoNothing()
     return
 
     NumpadPgUp::DoNothing()
