@@ -17,3 +17,5 @@ return
 
 Shift & NumpadAdd::Stop()
 return
+
+Capslock::Control
